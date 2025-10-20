@@ -1,7 +1,7 @@
 # Setup Environment
 - Install Anaconda
 - Create and Active Conda Virtual Environment
-  - ```conda create --name rag python=3.10```
+  - ```conda create --name rag python=3.13```
   - ```conda activate rag```
   - ```pip install -r dependencies.txt```
 

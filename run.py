@@ -21,6 +21,6 @@ def interactive(file_path):
 
 if __name__ == "__main__":
     # 设置文件地址
-    file_path = r'D:\WorkSpace\AI-Learning\RAG\intro-sample\曲面打印机说明书.txt'
+    file_path = '曲面打印机说明书.txt'
     # 展示
     interactive(file_path)
