@@ -1,0 +1,15 @@
+protobuf
+cpm_kernels
+torch
+jieba
+lxml
+gradio
+mdtex2html
+sentencepiece
+sse-starlette
+pyfunctional
+chardet
+faiss-cpu
+PyMuPDF
+openai
+llama-index
