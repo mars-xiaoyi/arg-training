@@ -1,0 +1,1 @@
+CHAT_MODEL_PROVIDER = "google"  # Can be 'google' or 'azure'
