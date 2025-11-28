@@ -2,3 +2,7 @@ openai
 langchain
 langchain-google-vertexai
 streamlit
+pydantic
+pytest-asyncio
+faiss-cpu
+python-dotenv

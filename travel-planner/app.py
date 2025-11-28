@@ -1,8 +1,5 @@
 import streamlit as st
 from agent import PreferenceAgent
-from dotenv import load_dotenv # Added import
-
-load_dotenv() # Added to load environment variables
 
 st.title("AI Travel Planner")
 
